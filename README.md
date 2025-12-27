@@ -2,7 +2,7 @@
 
 # Добро пожаловать, друг
 
-###### C++ Developer | Windows Platform Specialist
+###### C++ Developer | Windows Platform Specialist | Cybersecurity Specialist
 
 </div>
 
