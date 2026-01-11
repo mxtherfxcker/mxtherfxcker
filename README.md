@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🛠️ Технологии
 
 <div align="center">
@@ -25,8 +23,6 @@
 | | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | |
 
 </div>
-
----
 
 ## ⚡ Интересы
 
@@ -41,19 +37,6 @@ struct mxtherfxcker {
     };
 };
 ```
-
----
-
-## 📊 Статистика
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxtherfxcker&theme=github_dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxtherfxcker&theme=github_dark)
-
-</div>
-
----
 
 <div align="center">
 
