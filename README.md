@@ -18,17 +18,19 @@
 
 | Языки | Инструменты | Платформы |
 |:-----:|:-----------:|:---------:|
-| ![C++](https://img.shields.io/badge/C++17/20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | ![Visual Studio](https://img.shields.io/badge/VS_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | |
+| [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B17) | [![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org/) | [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/) |
+| [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C17_(C_standard_revision)) | [![Visual Studio](https://img.shields.io/badge/VS_2026-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes) | [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://ubuntu.com/) |
+| | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) | |
 
 </div>
 
 ## ⚡ Интересы
 
 ```cpp
-struct mxtherfxcker {
-    std::vector<std::string> interests = {
+struct mxtherfxcker 
+{
+    std::vector<std::string> interests = 
+    {
         "🚀 Performance Optimization",
         "🏗️ Systems Architecture", 
         "🎮 Game Modding",
