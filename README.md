@@ -24,6 +24,10 @@
 
 </div>
 
+## 📊 Статистика
+
+![mxtherfxcker](https://github-readme-stats.vercel.app/api?username=mxtherfxcker&theme=transparent&show_icons=true)
+
 ## ⚡ Интересы
 
 ```cpp
