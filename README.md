@@ -24,30 +24,6 @@
 
 </div>
 
-## 📊 Статистика
-
-![mxtherfxcker](https://github-readme-stats.vercel.app/api?username=mxtherfxcker&theme=transparent&show_icons=true)
-
 ## ⚡ Интересы
 
-```cpp
-struct mxtherfxcker 
-{
-    std::vector<std::string> interests = 
-    {
-        "🚀 Performance Optimization",
-        "🏗️ Systems Architecture", 
-        "🎮 Game Modding",
-        "🔧 Low-level Programming",
-        "🔐 Cybersecurity"
-    };
-};
-```
-
-#
-
-<div align="center">
-
-*"Premature optimization is the root of all evil, but late optimization is the root of all frustration."*
-
-</div>
+###### 🚀 Performance Optimization 🏗️ Systems Architecture 🎮 Game Modding 🔧 Low-level Programming 🔐 Cybersecurity
