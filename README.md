@@ -52,8 +52,7 @@ $ cat /dev/skills
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.rockstargames.com/VI/_next/image?url=%2FVI%2F_next%2Fstatic%2Fmedia%2FJason_Duval_06.e498e308.jpg&w=1920&q=75">
-  <img src="https://www.rockstargames.com/VI/_next/image?url=%2FVI%2F_next%2Fstatic%2Fmedia%2FJason_Duval_06.e498e308.jpg&w=1920&q=75" alt="Jason Duvall" width="100%"/>
+  <img src="https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg" alt="Vice City" width="100%"/>
 </picture>
 
 <br/>
