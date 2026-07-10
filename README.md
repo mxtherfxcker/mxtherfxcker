@@ -1,62 +1,26 @@
 <div align="center">
 
-# mxtherfxcker
+# Hey, I'm Ivan 👋
 
-```cmd
-$ whoami
-Software Engineer | Windows Internals Specialist | Security Researcher
-```
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1039474695222865950)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceyoynxy35@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mxtherfxcker)
+<a href="https://github.com/mxtherfxcker">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+From+Russia;%40+RwFrame+Team" alt="Typing SVG" />
+</a>
 
 </div>
 
-```cmd
-$ cat /dev/skills
-```
+#
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+### About me
 
-### Core Stack
-
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B17)
-
-</td>
-<td align="center" width="33%">
-
-### Tools
-
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)
-[![GCC](https://img.shields.io/badge/gcc-FFCFAB?style=flat-square&logo=gnu&logoColor=black)](https://gcc.gnu.org/)
-[![VS2026](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=msvc&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/releases/2026/release-notes)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-
-</td>
-<td align="center" width="33%">
-
-### Platforms
-
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://ubuntu.com/)
-
-</td>
-</tr>
-</table>
+Crafting immersive gameplay experiences and robust engine systems in modern C++.  
+Focused on performance, clean architecture, and pushing the limits of real‑time interactive software.  
 
 #
 
-<div align="center">
+### Tech stack
 
-<picture>
-  <img src="https://www.rockstargames.com/VI/_next/static/media/Vice_City_01.135x56yoeu.6t.jpg" alt="Vice City" width="100%"/>
-</picture>
-
-<br/>
-
-```diff
-- "Another day in paradise, right?"
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,visualstudio&theme=light&perline=5" />
+  </a>
+</p>
