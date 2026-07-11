@@ -24,6 +24,6 @@ I combine **deep architectural thinking** with **low-level optimisation**, treat
 
 <picture>
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true&color=F7DF1E&line=F7DF1E&point=F7DF1E" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=default&hide_border=true&area=true" media="(prefers-color-scheme: light)" />
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true" media="(prefers-color-scheme: light)" />
   <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true&color=F7DF1E&line=F7DF1E&point=F7DF1E" />
 </picture>
