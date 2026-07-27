@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> mxtherfxcker </h1>
+<h1>mxtherfxcker</h1>
 
 <a href="https://github.com/mxtherfxcker">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=2000&color=F7DF1E&center=true&vCenter=true&repeat=true&width=500&height=100&lines=Middle+Software+Engineer" alt="Typing SVG" />
