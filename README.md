@@ -11,7 +11,7 @@
 ## About me
 
 Building **robust**, **high-performance** software in **modern C++** and **C**;  
-I specialize in working with the [**Windows API**](https://learn.microsoft.com/windows/win32/api/).
+I specialize in working with the [**Windows API**](https://learn.microsoft.com/en-us/windows/win32/api/).
 
 ## Tech stack
 <p align="center">
