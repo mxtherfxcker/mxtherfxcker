@@ -15,8 +15,8 @@ I combine **deep architectural thinking** with **low-level optimisation**, treat
 
 ## Tech stack
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cmake,git,visualstudio&theme=light&perline=5" />
+  <a href="https://github.com/mxtherfxcker">
+    <img src="https://skillicons.dev/icons?i=windows,cpp,c,cmake,git,visualstudio,vscode&theme=light&perline=5" />
   </a>
 </p>
 
