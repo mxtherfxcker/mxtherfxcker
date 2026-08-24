@@ -3,20 +3,20 @@
 <h1>mxtherfxcker</h1>
 
 <a href="https://github.com/mxtherfxcker">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=2000&color=F7DF1E&center=true&vCenter=true&repeat=true&width=500&height=100&lines=Middle+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=2000&color=0000fe&center=true&vCenter=true&repeat=true&width=500&height=100&lines=Middle+Software+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## About me
 
-Building **robust**, **high-performance** software in **modern C++**.  
-I combine **deep architectural thinking** with **low-level optimisation**, treating **clarity** and **speed** as **two sides of the same coin**.
+Building **robust**, **high-performance** software in **modern C++** and **C**;  
+I specialize in working with the [**Windows API**](https://learn.microsoft.com/windows/win32/api/).
 
 ## Tech stack
 <p align="center">
   <a href="https://github.com/mxtherfxcker">
-    <img src="https://skillicons.dev/icons?i=windows,cpp,c,cmake,git,visualstudio,vscode&theme=light&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,cmake,windows,visualstudio,vscode,qt&theme=light&perline=4" />
   </a>
 </p>
 
