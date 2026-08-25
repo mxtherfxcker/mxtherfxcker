@@ -19,11 +19,3 @@ I specialize in working with the [**Windows API**](https://learn.microsoft.com/e
     <img src="https://skillicons.dev/icons?i=c,cpp,git,cmake,windows,visualstudio,vscode,qt&theme=dark&perline=4" />
   </a>
 </p>
-
-## Activity
-
-<picture>
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true&color=FF0000&line=FF0000&point=FF0000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true" media="(prefers-color-scheme: light)" />
-  <img width="100%" alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mxtherfxcker&theme=github-compact&hide_border=true&area=true&color=FF0000&line=FF0000&point=FF0000" />
-</picture>
